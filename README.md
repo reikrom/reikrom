@@ -1,5 +1,6 @@
-### Hi there 👋
+<img align="left" alt="woods" width="25%" src="https://starbounder.org/mediawiki/images/4/49/Shockhopper_MK_I.gif">
 
+### Hi there 👋
 <!--
 **reikrom/reikrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
