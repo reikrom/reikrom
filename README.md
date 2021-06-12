@@ -1,11 +1,11 @@
 <div align="center">
-   <img alt="visitor count" src="https://visitor-badge.glitch.me/badge?page_id=reikrom.reikrom&style=flat-square&color=0088cc" />
+   <a href="#"><img alt="visitor count" src="https://visitor-badge.glitch.me/badge?page_id=reikrom.reikrom&style=flat-square&color=0088cc" /></a>
   <h3>Hello World! :coffee:👋 </h3>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Coda&vCenter=true&width=500&lines=Front-end+developer;UX+Designer;Jack+of+all+trades+master+of+none...;...but+often+better+than+a+master+of+one+++;Always+learning+new+things&center=true&width=500&height=45">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Coda&vCenter=true&width=500&lines=Front-end+developer;UX+Designer;Jack+of+all+trades+master+of+none...;...but+often+better+than+a+master+of+one+++;Always+learning+new+things&center=true&width=500&height=45"></a>
    <br>
 <!--Long walk -->
-<img align="center" alt="woods" width="50%" src="https://raw.githubusercontent.com/reikrom/reikrom/main/long%20walk.gif"> 
+<a href="#"><img align="center" alt="woods" width="50%" src="https://raw.githubusercontent.com/reikrom/reikrom/main/long%20walk.gif"> <a/a>
 </div>
 <!-- Social Links -->
 <div align="center"> 
@@ -39,7 +39,7 @@
 <br>
 <br>
 <!-- Technology -->
-## <img align="left" alt="woods" width="20%" src="https://raw.githubusercontent.com/reikrom/reikrom/main/technologies.gif">  Technologies
+## <a href="#"><img align="left" alt="woods" width="20%" src="https://raw.githubusercontent.com/reikrom/reikrom/main/technologies.gif"></a>  Technologies
 <p> 
  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -77,13 +77,13 @@
     <div align="center">
        <h3> Stats </h3>
       <br>
-       <img alt="Commits" src="https://github-profile-trophy.vercel.app/?username=reikrom&title=Commit&theme=onedark&column=1" />
+       <a href="#"><img alt="Commits" src="https://github-profile-trophy.vercel.app/?username=reikrom&title=Commit&theme=onedark&column=1" /></a>
         <br>
         <br>
-        <img alt="Rei Krom's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=reikrom&show_icons=true&theme=radical&count_private=true" />
+        <a href="#"><img alt="Rei Krom's GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=reikrom&show_icons=true&theme=radical&count_private=true" /></a>
         <br>
-      <h3> <img alt="dancing penguin" src="https://raw.githubusercontent.com/reikrom/reikrom/main/facing-right.gif" width="50" /> 🎶 Music 🎶 <img alt="dancing penguin" src="https://raw.githubusercontent.com/reikrom/reikrom/main/facing-left.gif" width="50" /> </h3>
+      <h3> <a href="#"><img alt="dancing penguin" src="https://raw.githubusercontent.com/reikrom/reikrom/main/facing-right.gif" width="50" /></a> 🎶 Music 🎶 <a href="#"><img alt="dancing penguin" src="https://raw.githubusercontent.com/reikrom/reikrom/main/facing-left.gif" width="50" /></a> </h3>
       <br>
         <img alt="recent Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=1182896069" />
       <br>
