@@ -3,6 +3,7 @@
   <h3>Hello World! :coffee:👋 </h3>
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Coda&vCenter=true&width=500&lines=Front-end+developer;UX+Designer;Jack+of+all+trades+master+of+none....;...but+often+better+than+a+master+of+one+++;Always+learning+new+things&center=true&width=500&height=45">
+   <br>
 <img align="center" alt="woods" width="50%" src="https://i.imgur.com/L5EqZip.gif"> 
 </div>
 <!-- Social Links -->
