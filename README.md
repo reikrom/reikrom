@@ -4,7 +4,8 @@
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Coda&vCenter=true&width=500&lines=Front-end+developer;UX+Designer;Jack+of+all+trades+master+of+none...;...but+often+better+than+a+master+of+one+++;Always+learning+new+things&center=true&width=500&height=45">
    <br>
-<img align="center" alt="woods" width="50%" src="https://github.com/reikrom/reikrom/raw/reikrom-patch-1/long%20walk.gif"> 
+<!--Long walk -->
+<img align="center" alt="woods" width="50%" src="https://raw.githubusercontent.com/reikrom/reikrom/main/long%20walk.gif"> 
 </div>
 <!-- Social Links -->
 <div align="center"> 
@@ -37,8 +38,8 @@
 <br>
 <br>
 <br>
-
-## <img align="left" alt="woods" width="20%" src="https://github.com/reikrom/reikrom/raw/reikrom-patch-1/technologies.gif">  Technologies
+<!-- Technology -->
+## <img align="left" alt="woods" width="20%" src="https://raw.githubusercontent.com/reikrom/reikrom/main/technologies.gif">  Technologies
 <p> 
  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -82,7 +83,7 @@
         <img alt="Rei Krom's GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=reikrom&show_icons=true&theme=radical" />
         <br>
-      <h3> <img alt="dancing penguin" src="https://github.com/reikrom/reikrom/raw/reikrom-patch-1/facing-right.gif" width="50" /> 🎶 Music 🎶 <img alt="dancing penguin" src="https://github.com/reikrom/reikrom/raw/reikrom-patch-1/facing-left.gif" width="50" /> </h3>
+      <h3> <img alt="dancing penguin" src="https://raw.githubusercontent.com/reikrom/reikrom/main/facing-right.gif" width="50" /> 🎶 Music 🎶 <img alt="dancing penguin" src="https://raw.githubusercontent.com/reikrom/reikrom/main/facing-left.gif" width="50" /> </h3>
       <br>
         <img alt="recent Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=1182896069" />
       <br>
