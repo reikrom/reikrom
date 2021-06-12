@@ -81,7 +81,7 @@
         <br>
         <br>
         <img alt="Rei Krom's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=reikrom&show_icons=true&theme=radical" />
+                src="https://github-readme-stats.vercel.app/api?username=reikrom&show_icons=true&theme=radical&count_private=true" />
         <br>
       <h3> <img alt="dancing penguin" src="https://raw.githubusercontent.com/reikrom/reikrom/main/facing-right.gif" width="50" /> 🎶 Music 🎶 <img alt="dancing penguin" src="https://raw.githubusercontent.com/reikrom/reikrom/main/facing-left.gif" width="50" /> </h3>
       <br>
