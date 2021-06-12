@@ -1,14 +1,10 @@
-<h3 align="center">
-  
-   &nbsp; ![Profile views](https://visitor-badge.glitch.me/badge?page_id=reikrom.reikrom&style=flat-square&color=0088cc)
-
-  
-  Hello World! :coffee:👋
+<div align="center">
+   <img alt="visitor count" src="https://visitor-badge.glitch.me/badge?page_id=reikrom.reikrom&style=flat-square&color=0088cc" />
+  <h3>Hello World! :coffee:👋 </h3>
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Coda&vCenter=true&width=500&lines=Front-end+developer;UX+Designer;Jack+of+all+trades+master+of+none....;...but+often+better+than+a+master+of+one+++;Always+learning+new+things&center=true&width=500&height=45">
 <img align="center" alt="woods" width="50%" src="https://i.imgur.com/L5EqZip.gif"> 
-    
-</h3>
+</div>
 <!-- Social Links -->
 <div align="center"> 
   <p>Find me on</p>
@@ -28,23 +24,19 @@
           src="https://img.shields.io/badge/-Steam-1b2838?style=flat-square&logo=Steam&logoColor=white">
   </a>
 </div>
+<br>
+<br>
+<br>
 
-# 
- 
- 
+## About me
 
+<!-- Footer -->
+  >“An orange is a sweet juicy fruit, locked inside a bitter peel. That’s not how I feel about a challenge, I only want the bitterness. It’s coffee, it’s grapefruit, it’s licorice. ”
 
-
-</br>
-
-
-
-
-
-
- 
-
-</br>
+*~Bennett Foddy*
+<br>
+<br>
+<br>
 
 ## <img align="left" alt="woods" width="20%" src="https://static.wixstatic.com/media/e5e272_a0e952c58ebf4c00bd655c718ac16087~mv2.gif/v1/fill/w_300,h_189,q_90/e5e272_a0e952c58ebf4c00bd655c718ac16087~mv2.gif">  Technologies
 <p> 
@@ -98,12 +90,6 @@
 </details>
 
 #
-<!-- Footer -->
-  >“An orange is a sweet juicy fruit, locked inside a bitter peel. That’s not how I feel about a challenge, I only want the bitterness. It’s coffee, it’s grapefruit, it’s licorice. ”
-
-*~Bennett Foddy*
-
-
 
   
   
