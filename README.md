@@ -43,7 +43,8 @@
 <p> 
  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwindcss-05b6d4?style=flat-square&logo=tailwindcss&logoColor=white" />  
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+   <img alt="Parcel" src="https://img.shields.io/badge/-Parcel-be4248?style=flat-square&logo=parcel&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -58,6 +59,9 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+    <img alt="yarn" src="https://img.shields.io/badge/-yarn-2b89b7?style=flat-square&logo=yarn&logoColor=white" />
+  <img alt="lerna" src="https://img.shields.io/badge/-Lerna-000000?style=flat-square&logo=lerna&logoColor=white" />
+  <img alt="volta" src="https://img.shields.io/badge/-Volta-257a83?style=flat-square&logo=volta&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
@@ -76,17 +80,11 @@
   <summary> <samp>&#9776; More Stuff</samp></summary>
   <br>
     <div align="center">
-       <h3> Stats </h3>
-      <br>
-       <a href="#"><img alt="Commits" src="https://github-profile-trophy.vercel.app/?username=reikrom&title=Commit&theme=onedark&column=1" /></a>
-        <br>
-        <br>
-        <a href="#"><img alt="Rei Krom's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=reikrom&show_icons=true&theme=radical&count_private=true" /></a>
         <br>
       <h3> <a href="#"><img alt="dancing penguin" src="https://raw.githubusercontent.com/reikrom/reikrom/main/facing-right.gif" width="50" /></a> 🎶 Music 🎶 <a href="#"><img alt="dancing penguin" src="https://raw.githubusercontent.com/reikrom/reikrom/main/facing-left.gif" width="50" /></a> </h3>
       <br>
       <br>
+        <img alt="spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=1182896069&cover_image=true&theme=default&bar_color=7c2a93)](https://github.com/kittinan/spotify-github-profile" />
         </div>
 </details>
 
