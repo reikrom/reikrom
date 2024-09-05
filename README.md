@@ -17,14 +17,11 @@
   <summary> <samp>&#9776; More</samp></summary>
   <br>
     <div align="center">
-        <br>
-     <!--Long walk -->
-   <a href="#"><img top="50%" align="center" alt="woods" width="50%" src="https://raw.githubusercontent.com/reikrom/reikrom/main/long%20walk.gif"> </a>
- <!--END Long walk -->
-      <br>
+    <br>
+   <a href="#"><img top="50%" align="center" alt="woods" width="50%" src="https://github.com/reikrom/reikrom/blob/old-assets/long%20walk.gif"> </a>
 
 <div>
-<blockquote cite="https://www.huxley.net/bnw/four.html">
+<blockquote cite="https://en.wikipedia.org/wiki/Bennett_Foddy">
     <p>An orange is a sweet juicy fruit, locked inside a bitter peel. That’s not how I feel about a challenge, I only want the bitterness. It’s coffee, it’s grapefruit, it’s licorice.</p>
   </blockquote>
   <p>—Bennett Foddy, <cite> Getting Over It with Bennett Foddy
@@ -36,5 +33,5 @@ Video game</cite></p>
 
 
 
-  
-  
+
+
